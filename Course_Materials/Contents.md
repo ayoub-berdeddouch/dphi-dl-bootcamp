@@ -1,6 +1,6 @@
 All the notebooks for DPhi Deep Learning Bootcamp can be found in this repository
 
-## Contents  
+## Course Materials Contents  
 
 | Day   | Description                           | Slides | PDF | Notebook |
 | :---: |:------------------------------------- | :-----:| :-------:|:-------:|
