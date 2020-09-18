@@ -24,18 +24,18 @@ __What you will Learn__
 
 | Day   | Description                           | Slides | PDF | Notebook |
 | :---: |:------------------------------------- | :-----:| :-------:|:-------:|
-| 1     | Introduction to Deep Learning         | - | - | - |
+| 1     | Introduction to Deep Learning         | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day1.pptx) | - | - |
 | 2     | Introduction to Neural Networks       | - | - | - |
-| 3     | Tensor Operations                     | - | - |[Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Tensor_Operations) |
-| 4     | Neural Networks for Regression        | - | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Linear_Regression) |
-| 5     | Working of Neural Network             | - | - | - |
-| 6 & 7 | Binary Classification                 | - | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/DL%20For%20Classification) |
-| 8     | Activation Functions, Optimizers & Multi-Class Classification | - | - |[Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Multi_Class_Classification) | 
-| 9     | Optimizing a Neural Networks - Part 1 | - | - | - |
-| 10    | Optimizing Training of Neural Networks| - | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Optimization_Techniques) |
-| 11    | Optimizing a Neural Networks - Part 2 | - | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Multi_Class_Classification) |
-| 12    | Computer Vision and OpenCV            | - | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/OpenCV) |
-| 13    | CNN Essentials                        | - | - | [Link](https://github.com/dphi-official/convolutional_neural_networks_essentials/tree/master/tutorials) |
+| 3     | Tensor Operations                     | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day3.pptx) | - |[Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Tensor_Operations) |
+| 4     | Neural Networks for Regression        | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day4.pptx) | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Linear_Regression) |
+| 5     | Working of Neural Network             | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day5.pptx) | - | - |
+| 6  | Binary Classification                 | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day6.pptx) | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/DL%20For%20Classification) |
+| 7 & 8     | Activation Functions, Optimizers & Multi-Class Classification | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day7_8.pptx) | - |[Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Multi_Class_Classification) | 
+| 9 & 10    | Optimizing a Neural Networks - Part 1 | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day9,10.pptx) | - | - |
+| 11    | Optimizing Training of Neural Networks| [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day11.pptx) | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Optimization_Techniques) |
+| 12    | Optimizing a Neural Networks - Part 2 | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day12.pptx) | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/Multi_Class_Classification) |
+| 13    | Computer Vision and OpenCV            | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day13.pptx) | - | [Link](https://github.com/dphi-official/Deep_Learning_Bootcamp/tree/master/OpenCV) |
+| 14    | CNN Essentials                        | [link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/upload/master/Course_Materials/DL_Day14.pptx) | - | [Link](https://github.com/dphi-official/convolutional_neural_networks_essentials/tree/master/tutorials) |
 
 
 
