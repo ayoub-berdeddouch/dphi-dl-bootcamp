@@ -43,21 +43,21 @@ __What you will Learn__
  
 ### Assignment 1 
 
-| Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link |
-| :---: |:------------------------------------- | :-----:| :-------:|:-------:|:-------:|
-| Object Recognition  | Your task here is to build a deep learning model that helps you recognize the object in images and predict the class of the image. (class ranges from 1 to 10) | [Dataset Link:](https://raw.githubusercontent.com/dphi-official/Datasets/master/cifar_image_flattened_pixels.csv) | Accuracy Score = 78.05 | #58  | [LINK](https://dphi.tech/practice/challenge/31) |
+| Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link | Notebook |
+| :---: |:------------------------------------- | :-----:| :-------:|:-------:|:-------:| :-------:|
+| Object Recognition  | Your task here is to build a deep learning model that helps you recognize the object in images and predict the class of the image. (class ranges from 1 to 10) | [Dataset Link:](https://raw.githubusercontent.com/dphi-official/Datasets/master/cifar_image_flattened_pixels.csv) | Accuracy Score = 78.05 | #58  | [LINK](https://dphi.tech/practice/challenge/31) | [Notebook Link]()
 
 ### Assignment 2
 
-| Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link |
+| Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link | Notebook |
 | :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:|
-| Recognize Animals   | Your task here is to build a deep learning model that helps you recognize the animal or bird in images (5 classes)  | [Dataset Link:](https://drive.google.com/file/d/176E-pLhoxTgWsJ3MeoJQV_GXczIA6g8D/view?usp=sharing) | Accuracy Score = 96.373626  | #21  | [LINK](https://dphi.tech/practice/challenge/33)
+| Recognize Animals   | Your task here is to build a deep learning model that helps you recognize the animal or bird in images (5 classes)  | [Dataset Link:](https://drive.google.com/file/d/176E-pLhoxTgWsJ3MeoJQV_GXczIA6g8D/view?usp=sharing) | Accuracy Score = 96.373626  | #21  | [LINK](https://dphi.tech/practice/challenge/33) | [Notebook Link]()
 
 # Datathon 
 
 ### Datathon 
 
-| Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link |
-| :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:|
-| Face Mask Detection   | Your task here is to build a machine/deep learning model to detect face masks  | [Dataset Link:](https://drive.google.com/file/d/1_W2gFFZmy6ZyC8TPlxB49eDFswdBsQqo/view?usp=sharing) | Accuracy Score = 98.046875  | #13  | [LINK](https://dphi.tech/practice/challenge/37)
+| Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link | Notebook |
+| :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:| :-------:|
+| Face Mask Detection   | Your task here is to build a machine/deep learning model to detect face masks  | [Dataset Link:](https://drive.google.com/file/d/1_W2gFFZmy6ZyC8TPlxB49eDFswdBsQqo/view?usp=sharing) | Accuracy Score = 98.046875  | #13  | [LINK](https://dphi.tech/practice/challenge/37) | [Notebook Link]()
 
