@@ -59,5 +59,5 @@ __What you will Learn__
 
 | Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link | Notebook |
 | :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:| :-------:|
-| Face Mask Detection   | Your task here is to build a machine/deep learning model to detect face masks  | [Dataset Link:](https://drive.google.com/file/d/1_W2gFFZmy6ZyC8TPlxB49eDFswdBsQqo/view?usp=sharing) | Accuracy Score = 98.046875  | #13  | [LINK](https://dphi.tech/practice/challenge/37) | [Notebook Link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/tree/master/Notebooks/Datathon)
+| Face Mask Detection   | Your task here is to build a machine/deep learning model to detect face masks  | [Dataset Link:](https://drive.google.com/file/d/1_W2gFFZmy6ZyC8TPlxB49eDFswdBsQqo/view?usp=sharing) | Accuracy Score = 98.046875  | #12  | [LINK](https://dphi.tech/practice/challenge/37) | [Notebook Link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/tree/master/Notebooks/Datathon)
 
