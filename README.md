@@ -50,7 +50,7 @@ __What you will Learn__
 ### Assignment 2
 
 | Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link | Notebook |
-| :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:|
+| :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:|:-------:|
 | Recognize Animals   | Your task here is to build a deep learning model that helps you recognize the animal or bird in images (5 classes)  | [Dataset Link:](https://drive.google.com/file/d/176E-pLhoxTgWsJ3MeoJQV_GXczIA6g8D/view?usp=sharing) | Accuracy Score = 96.373626  | #21  | [LINK](https://dphi.tech/practice/challenge/33) | [Notebook Link]()
 
 # Datathon 
