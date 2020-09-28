@@ -60,4 +60,5 @@ __What you will Learn__
 | Name   | Objective                           | Data | Evaluation Criteria | Leaderboard | Link | Notebook |
 | :---: |:------------------------------------- | :-----:| :-------: | :-------: | :-------:| :-------:|
 | Face Mask Detection   | Your task here is to build a machine/deep learning model to detect face masks  | [Dataset Link](https://drive.google.com/file/d/1_W2gFFZmy6ZyC8TPlxB49eDFswdBsQqo/view?usp=sharing) | Accuracy Score = 99.804688  | #3  | [LINK](https://dphi.tech/practice/challenge/37) | [Notebook Link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/tree/master/Notebooks/Datathon)
+| Bank Marketing   | Predict if a Customer will subscribe the product or not | [Dataset Link](https://raw.githubusercontent.com/dphi-official/Datasets/master/bank_marketing_data/training_set_label.csv) | F1-Score = 62.3507228158391  | #15 | [LINK](https://dphi.tech/practice/challenge/36) | [Notebook Link](https://github.com/ayoub-berdeddouch/dphi-dl-bootcamp/tree/master/Notebooks/Datathon)
 
